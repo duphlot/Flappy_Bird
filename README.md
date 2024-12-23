@@ -1,5 +1,4 @@
 # Flappy Bird - SFML Edition
-![image](https://github.com/user-attachments/assets/7f096e16-ee38-4ad2-b9ac-9677b21afe46)
 
 Experience the iconic Flappy Bird game brought to life using the power of SFML (Simple and Fast Multimedia Library)! With fluid gameplay, stunning visuals, and addictiveness that hooks everyone, this project is a perfect showcase of creativity and programming.
 
